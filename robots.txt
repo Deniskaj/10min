@@ -1,0 +1,5 @@
+User-agent: *
+Disallow: /core
+Disallow: /manager
+Sitemap: https://gtafivestar.ru/sitemap.xml
+Host: https://www.gtafivestar.ru
